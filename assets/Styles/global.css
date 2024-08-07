@@ -9,6 +9,11 @@
     scroll-behavior: smooth;
 }
 
+body{
+    background-color: var(--corFundo);
+    color: var(--corBranco);
+}
+
 /*Declaração de padding em todas a seções*/
 section, footer{
     padding: 0px 15%;
