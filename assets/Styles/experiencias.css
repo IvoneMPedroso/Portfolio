@@ -4,7 +4,7 @@
 }
 
 #experiencias h1{
-    font-size: var(--fonteTitulo);
+    font-family: "Cardo", serif;
     margin-bottom: 50px;
 }
 
